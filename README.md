@@ -1,7 +1,3 @@
-Here is the updated README:
-
----
-
 # MiniLLM 🧠
 
 > Building a Large Language Model from scratch. No libraries. No shortcuts. Just code and understanding.
@@ -92,7 +88,7 @@ Documenting every stage as I build it.
 
 | Stage | Article | Publication |
 |---|---|---|
-| Tokenization | [Building an LLM From Scratch. Here's Where It All Starts.](your link here) | Towards AI |
+| Tokenization | [Building an LLM From Scratch. Here's Where It All Starts.](https://medium.com/towards-artificial-intelligence/building-an-llm-from-scratch-heres-where-it-all-starts-071d7f1ab870) | Towards AI |
 | Embeddings | Coming soon | — |
 | Attention | Coming soon | — |
 
@@ -113,7 +109,3 @@ This is a learning project. Expect mistakes, rewrites, and honest documentation 
 ---
 
 *If you are also building from scratch, feel free to follow along or reach out.*
-
----
-
-Replace `your link here` with your Towards AI article link and push.
