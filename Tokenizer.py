@@ -116,6 +116,6 @@ plt.tight_layout()
 plt.savefig("bigram_heatmap.png", dpi=300, bbox_inches='tight')
 plt.show()  # Also display the plot
 
-print("\n📊 Heatmap saved as 'bigram_heatmap.png'")
-print("🔍 The heatmap shows how often each character (row) is followed by another character (column)")
-print("📈 Darker colors = higher frequency")
+print("\n Heatmap saved as 'bigram_heatmap.png'")
+print(" The heatmap shows how often each character (row) is followed by another character (column)")
+print(" Darker colors = higher frequency")
