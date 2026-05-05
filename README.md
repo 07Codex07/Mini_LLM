@@ -30,7 +30,7 @@ Tokenization ✅  →  Embeddings 🔄  →  Attention ⏳  →  Transformer ⏳
 - Character level tokenization
 - Bigram model and probability matrix
 - Why character level fails at scale
-- 📝 [Read the article](your link here) — Published in Towards AI
+- 📝 [Read the article](https://pub.towardsai.net/building-an-llm-from-scratch-heres-where-it-all-starts-071d7f1ab870) — Published in Towards AI
 
 ### 🔄 Stage 2 — Embeddings (Current)
 - Converting tokens to vectors
