@@ -122,25 +122,6 @@ Not started.
 
 ---
 
-## 📁 Structure
-
-```
-Mini_LLM/
-├── Tokenizer.py                     # character level bigram model
-├── embeddings.py                    # word2vec skip-gram from scratch
-├── evaluate.py                      # cosine similarity evaluation
-├── corpus.txt                       # ~1M words, 5 Dostoevsky novels
-├── outputs/
-│   ├── bigram_heatmap.png
-│   ├── bigram_probs_heatmap.png
-│   ├── embeddings_before_training.png
-│   └── embeddings_after_training.png
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## 🛠️ Stack
 
 ```python
