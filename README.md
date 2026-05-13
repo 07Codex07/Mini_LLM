@@ -81,7 +81,7 @@ Uniform negative sampling let common words like "the" dominate. Fixed with frequ
 
 Learning rate too high caused embedding collapse. Reduced from 0.01 to 0.005.
 
-📝 Article coming soon — Towards AI
+📝 [Read the full breakdown](https://medium.com/towards-artificial-intelligence/building-an-llm-from-scratch-i-trained-word-embeddings-on-dostoevsky-heres-what-i-found-b3169c1ae674) — Published in Towards AI
 
 ---
 
@@ -115,7 +115,7 @@ Not started.
 |---|---|---|
 | Tokenization | ✅ Done | [Read](https://pub.towardsai.net/building-an-llm-from-scratch-heres-where-it-all-starts-071d7f1ab870) |
 | Embeddings | ✅ Done | [Read](https://medium.com/towards-artificial-intelligence/building-an-llm-from-scratch-i-trained-word-embeddings-on-dostoevsky-heres-what-i-found-b3169c1ae674) |
-| Attention | Started |
+| Attention | 🔄 In progress | — |
 | Transformer Block | ⏳ Not started | — |
 | Training Loop | ⏳ Not started | — |
 | Inference | ⏳ Not started | — |
