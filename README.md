@@ -114,8 +114,8 @@ Not started.
 | Stage | Status | Article |
 |---|---|---|
 | Tokenization | ✅ Done | [Read](https://pub.towardsai.net/building-an-llm-from-scratch-heres-where-it-all-starts-071d7f1ab870) |
-| Embeddings | ✅ Done | Coming soon |
-| Attention | ⏳ Not started | — |
+| Embeddings | ✅ Done | [Read](https://medium.com/towards-artificial-intelligence/building-an-llm-from-scratch-i-trained-word-embeddings-on-dostoevsky-heres-what-i-found-b3169c1ae674) |
+| Attention | Started |
 | Transformer Block | ⏳ Not started | — |
 | Training Loop | ⏳ Not started | — |
 | Inference | ⏳ Not started | — |
