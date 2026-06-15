@@ -1,7 +1,5 @@
 # MiniLLM 🧠
 
-<img width="1440" height="1040" alt="image" src="https://github.com/user-attachments/assets/05b3d8e9-bffe-418b-bb1f-c2d7e6eb4080" />
-
 > No libraries. No shortcuts. Every component built by hand until it can hold a conversation on its own.
 
 ---
