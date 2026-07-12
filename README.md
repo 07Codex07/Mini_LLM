@@ -23,7 +23,7 @@ A language model that can hold a conversation on its own. Built entirely from sc
 ## 🗺️ The build
 
 ```
-Tokenization ✅  →  Embeddings ✅  →  Attention ⏳  →  Transformer ⏳  →  Training ⏳  →  Inference ⏳
+Tokenization ✅  →  Embeddings ✅  →  Attention ✅  →  Transformer ⏳  →  Training ⏳  →  Inference ⏳
 ```
 
 ---
