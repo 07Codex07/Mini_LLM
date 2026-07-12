@@ -1,0 +1,5 @@
+data/
+corpus.txt
+rapidapi.py
+shl.py
+__pycache__/
