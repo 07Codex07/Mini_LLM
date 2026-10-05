@@ -32,3 +32,12 @@ venv/
 .pytest_cache/
 .vscode/
 tempCodeRunnerFile.py
+checkpoints/
+training_log.txt
+training_state.pkl
+corpus_v2.txt
+corpus_v2_clean.txt
+transformer_*.npy
+transformer_*.npz
+bpe_data.pkl
+model_config.pkl
